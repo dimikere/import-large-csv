@@ -76,3 +76,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## More Custom Infos
+
+Exist dump csv file with name large_imp.csv 
+Need to remove the old csv pending file in "pending-files" folder inside resources
